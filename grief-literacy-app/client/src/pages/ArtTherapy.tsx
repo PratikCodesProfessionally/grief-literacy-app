@@ -1,0 +1,1 @@
+// Full ArtTherapy component code
